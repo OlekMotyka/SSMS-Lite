@@ -1,5 +1,0 @@
-C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\Models\bin\Release\Models.dll
-C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\Models\bin\Release\Models.pdb
-C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\Models\obj\Release\Models.csproj.CoreCompileInputs.cache
-C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\Models\obj\Release\Models.dll
-C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\Models\obj\Release\Models.pdb
