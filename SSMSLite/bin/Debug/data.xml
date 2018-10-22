@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfConnection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Connection>
+    <Name>local</Name>
+    <Server>.\SQLEXPRESS</Server>
+    <SqlAuth>false</SqlAuth>
+    <Username />
+    <Password />
+    <Encrypted>false</Encrypted>
+  </Connection>
+  <Connection>
+    <Name>Blueform Zewn.</Name>
+    <Server>91.195.158.95</Server>
+    <SqlAuth>true</SqlAuth>
+    <Username>sa</Username>
+    <Password>yaka</Password>
+    <Encrypted>false</Encrypted>
+  </Connection>
+</ArrayOfConnection>

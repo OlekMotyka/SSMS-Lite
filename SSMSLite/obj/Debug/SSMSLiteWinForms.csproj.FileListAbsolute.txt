@@ -1,0 +1,16 @@
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\bin\Debug\SSMSLite.exe.config
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\bin\Debug\SSMSLite.exe
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\bin\Debug\SSMSLite.pdb
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLiteWinForms.csprojResolveAssemblyReference.cache
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLiteWinForms.ChangeName.resources
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLiteWinForms.ConnectionsControl.resources
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLiteWinForms.Main.resources
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLiteWinForms.InstanceControl.resources
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLiteWinForms.QueryControl.resources
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLiteWinForms.ConnectionControl.resources
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLiteWinForms.csproj.GenerateResource.cache
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLite.exe.licenses
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLiteWinForms.csproj.CoreCompileInputs.cache
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLite.exe
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLite.pdb
+C:\Users\amoty\documents\visual studio 2017\Projects\SSMSLite\SSMSLite\obj\Debug\SSMSLiteWinForms.Properties.Resources.resources
